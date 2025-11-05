@@ -1,0 +1,14 @@
+C:\Users\vivex\Desktop\Exception_Sealed\Exception_Sealed_Practice\Exception_Sealed_Practice\bin\Debug\net8.0\Exception_Sealed_Practice.exe
+C:\Users\vivex\Desktop\Exception_Sealed\Exception_Sealed_Practice\Exception_Sealed_Practice\bin\Debug\net8.0\Exception_Sealed_Practice.deps.json
+C:\Users\vivex\Desktop\Exception_Sealed\Exception_Sealed_Practice\Exception_Sealed_Practice\bin\Debug\net8.0\Exception_Sealed_Practice.runtimeconfig.json
+C:\Users\vivex\Desktop\Exception_Sealed\Exception_Sealed_Practice\Exception_Sealed_Practice\bin\Debug\net8.0\Exception_Sealed_Practice.dll
+C:\Users\vivex\Desktop\Exception_Sealed\Exception_Sealed_Practice\Exception_Sealed_Practice\bin\Debug\net8.0\Exception_Sealed_Practice.pdb
+C:\Users\vivex\Desktop\Exception_Sealed\Exception_Sealed_Practice\Exception_Sealed_Practice\obj\Debug\net8.0\Exception_Sealed_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivex\Desktop\Exception_Sealed\Exception_Sealed_Practice\Exception_Sealed_Practice\obj\Debug\net8.0\Exception_Sealed_Practice.AssemblyInfoInputs.cache
+C:\Users\vivex\Desktop\Exception_Sealed\Exception_Sealed_Practice\Exception_Sealed_Practice\obj\Debug\net8.0\Exception_Sealed_Practice.AssemblyInfo.cs
+C:\Users\vivex\Desktop\Exception_Sealed\Exception_Sealed_Practice\Exception_Sealed_Practice\obj\Debug\net8.0\Exception_Sealed_Practice.csproj.CoreCompileInputs.cache
+C:\Users\vivex\Desktop\Exception_Sealed\Exception_Sealed_Practice\Exception_Sealed_Practice\obj\Debug\net8.0\Exception_Sealed_Practice.dll
+C:\Users\vivex\Desktop\Exception_Sealed\Exception_Sealed_Practice\Exception_Sealed_Practice\obj\Debug\net8.0\refint\Exception_Sealed_Practice.dll
+C:\Users\vivex\Desktop\Exception_Sealed\Exception_Sealed_Practice\Exception_Sealed_Practice\obj\Debug\net8.0\Exception_Sealed_Practice.pdb
+C:\Users\vivex\Desktop\Exception_Sealed\Exception_Sealed_Practice\Exception_Sealed_Practice\obj\Debug\net8.0\Exception_Sealed_Practice.genruntimeconfig.cache
+C:\Users\vivex\Desktop\Exception_Sealed\Exception_Sealed_Practice\Exception_Sealed_Practice\obj\Debug\net8.0\ref\Exception_Sealed_Practice.dll
